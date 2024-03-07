@@ -15,6 +15,7 @@ html{
     text-align: center;
     background: linear-gradient(to bottom, #ff3700, #4c1605);
     padding: 10vh;
+    padding-bottom: 0vh;
     border : 1px solid #000;
 }
 
@@ -52,3 +53,9 @@ html{
     text-decoration: none;
     
 }
+h3{
+    color: #ffffff;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
